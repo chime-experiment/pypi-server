@@ -4,12 +4,12 @@ This is the repository and index for @chime-experiment and @radiocosmology Pytho
 
 It follows [PEP 503](https://www.python.org/dev/peps/pep-0503/).
 
-To install a package from this server, add the index `--extra-index-url URL` to your `pip3` calls.
+To install a package from this server, add the index `--extra-index-url https://chime-experiment.github.io/pypi-server/simple/` to your `pip3` calls.
 
 For example:
 
 ```
-pip3 install dias --extra-index-url URL
+pip3 install dias --extra-index-url https://chime-experiment.github.io/pypi-server/simple/
 ```
 
 and `pip3` will look for packages in this server before it checks the PYPI server.
