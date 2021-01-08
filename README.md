@@ -9,7 +9,7 @@ To install a package from this server, add the index `--extra-index-url https://
 For example:
 
 ```
-pip3 install dias --extra-index-url https://chime-experiment.github.io/pypi-server/simple/
+pip3 install caput --extra-index-url https://chime-experiment.github.io/pypi-server/simple/
 ```
 
 and `pip3` will look for packages in this server before it checks the PYPI server.
